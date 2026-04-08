@@ -1,2 +1,1 @@
-# BLOX.SPIN
-a custom gambling bot
+BLOX.SPIN Gambling Bot
